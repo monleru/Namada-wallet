@@ -38,10 +38,8 @@ function copyFolderRecursiveSync(source, destination): void {
     const currentSource = path.join(source, file)
     const currentDestination = path.join(destination, file)
     if (fs.lstatSync(currentSource).isDirectory()) {
-      // Если это директория, рекурсивно копируем ее
       copyFolderRecursiveSync(currentSource, currentDestination)
     } else {
-      // Если это файл, копируем его
       fs.copyFileSync(currentSource, currentDestination)
     }
   })
