@@ -1,0 +1,27 @@
+[token.apfel]
+address = "tnam1qy3s38608aegaare0hjurqcc3h6u9ax4yv8whf2f"
+denom = 6
+
+[token.btc]
+address = "tnam1q90hdmwl9jhfp43e7l3qx974h3xc2wj8gqajkth7"
+denom = 8
+
+[token.dot]
+address = "tnam1qyu9js2w2sshpud75vmy2nvumt3utjqkdsu7zsse"
+denom = 10
+
+[token.eth]
+address = "tnam1qxth6cayv2uqttcle53qwx4hamg024vm7qulntwh"
+denom = 18
+
+[token.kartoffel]
+address = "tnam1q8apl6pq6w5vy7m5vlxxwpz5qr5h9t9gautdz082"
+denom = 6
+
+[token.nam]
+address = "tnam1q87wtaqqtlwkw927gaff34hgda36huk0kgry692a"
+denom = 6
+
+[token.schnitzel]
+address = "tnam1qy2g6cvle0jcnmsd5sradgd8qfzffd9npvt9arvl"
+denom = 6

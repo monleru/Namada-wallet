@@ -1,0 +1,32 @@
+[view_keys]
+
+[spend_keys]
+
+[payment_addrs]
+
+[secret_keys]
+
+[public_keys]
+
+[derivation_paths]
+
+[addresses]
+apfel = "tnam1qy3s38608aegaare0hjurqcc3h6u9ax4yv8whf2f"
+btc = "tnam1q90hdmwl9jhfp43e7l3qx974h3xc2wj8gqajkth7"
+dot = "tnam1qyu9js2w2sshpud75vmy2nvumt3utjqkdsu7zsse"
+eth = "tnam1qxth6cayv2uqttcle53qwx4hamg024vm7qulntwh"
+ethbridge = "tnam1quqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqfgdmms"
+ethbridgepool = "tnam1pqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqu35hpf"
+governance = "tnam1q5qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqrw33g6"
+ibc = "tnam1qcqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqvtr7x4"
+kartoffel = "tnam1q8apl6pq6w5vy7m5vlxxwpz5qr5h9t9gautdz082"
+masp = "tnam1pcqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqzmefah"
+nam = "tnam1q87wtaqqtlwkw927gaff34hgda36huk0kgry692a"
+pos = "tnam1qgqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqc8j2fp"
+publicgoodfundings = "tnam1pgqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkhgajr"
+schnitzel = "tnam1qy2g6cvle0jcnmsd5sradgd8qfzffd9npvt9arvl"
+
+[pkhs]
+
+[address_vp_types]
+token = ["tnam1q8apl6pq6w5vy7m5vlxxwpz5qr5h9t9gautdz082", "tnam1qxth6cayv2uqttcle53qwx4hamg024vm7qulntwh", "tnam1q90hdmwl9jhfp43e7l3qx974h3xc2wj8gqajkth7", "tnam1qyu9js2w2sshpud75vmy2nvumt3utjqkdsu7zsse", "tnam1q87wtaqqtlwkw927gaff34hgda36huk0kgry692a", "tnam1qy3s38608aegaare0hjurqcc3h6u9ax4yv8whf2f", "tnam1qy2g6cvle0jcnmsd5sradgd8qfzffd9npvt9arvl"]

@@ -1,0 +1,9 @@
+chain_id = "luminara.45fd94fb5c14d0dd304da"
+genesis_time = "2023-11-13T00:00:00+00:00"
+
+[consensus_timeout_commit]
+secs = 10
+nanos = 0
+
+[address_gen]
+last_hash = [223, 77, 89, 44, 164, 95, 141, 166, 81, 142, 29, 36, 204, 199, 42, 212, 127, 10, 72, 83, 121, 243, 29, 67, 15, 155, 129, 230, 221, 166, 63, 134]
